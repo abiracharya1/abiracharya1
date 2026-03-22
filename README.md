@@ -17,7 +17,6 @@ People Analytics professional with **15+ years of HR operations experience**, in
 - 🏢 Currently: **HR Business Analyst @ Connexions Data Inc.** — managing US & India HR operations for 150+ employees
 - 📊 Building dashboards in **Power BI** that directly inform C-suite retention strategy
 - 🎓 BBA Graduate (2025) + **Professional Certification in Business Analytics** (SQL, Power BI, Python, Tableau, Agile)
-- 📍 Based in **Kolkata, India**
 - 📫 Reach me at **abiracharya1@gmail.com**
 
 ---
@@ -63,20 +62,20 @@ People Analytics professional with **15+ years of HR operations experience**, in
 
 ## 📂 Featured Projects
 
-### 🔹 [HR Analytics Dashboard](https://github.com/abiracharya1/HR-Analytics-Dashboard)
-End-to-end HR analytics project — data cleaning, SQL analysis & Power BI dashboards tracking attrition, headcount, and workforce performance metrics.
-`Power BI` `SQL` `DAX` `HR Analytics`
+### 🔹 [Power BI Dashboard Projects](https://github.com/abiracharya1/PowerBI-Dashboard-Projects)
+Interactive Power BI dashboards — Automobile Sales analytics and Sales Analysis with DAX measures, KPI tracking, profitability analysis, and regional performance.
+`Power BI` `DAX` `Power Query` `Sales Analytics`
 
-### 🔹 [SQL Employee Data Analysis](https://github.com/abiracharya1/SQL-Employee-Data-Analysis)
-Workforce analytics using SQL: employee distribution, salary analysis, department metrics, and business-driven data queries.
-`SQL` `T-SQL` `Workforce Analytics`
+### 🔹 [SQL Business Analytics](https://github.com/abiracharya1/SQL-Business-Analytics)
+SQL analytics projects covering supply chain pricing, customer behaviour analysis, revenue trends, and distribution channel insights.
+`SQL` `T-SQL` `Supply Chain` `Customer Analytics`
 
-### 🔹 [Excel HR Analytics Dashboard](https://github.com/abiracharya1/Excel-HR-Analytics-Dashboard)
-HR analytics dashboard in Excel — pivot tables, formulas, and KPI tracking to analyse workforce trends and HR metrics.
-`Excel` `Pivot Tables` `Power Query`
+### 🔹 [Excel Business Analytics Projects](https://github.com/abiracharya1/Excel-Business-Analytics-Projects)
+Excel analytics covering financial modelling (NPV, IRR, EMI), depreciation calculations, and regional performance analysis using pivot tables and Power Query.
+`Excel` `Financial Modelling` `Pivot Tables` `Power Query`
 
 ### 🔹 [Python Data Analysis](https://github.com/abiracharya1/Python-Data-Analysis)
-EDA, data cleaning, and visualisation using pandas, numpy, and matplotlib. Includes EV market size analysis and house price prediction with ML.
+EDA, data cleaning, and visualisation using pandas, numpy, and matplotlib. Includes EV market size analysis (177K+ records) and house price prediction with ML.
 `Python` `Pandas` `Machine Learning` `EDA`
 
 ### 🔹 [Tableau Dashboard Projects](https://github.com/abiracharya1/Tableau-Dashboard-Projects)
@@ -109,10 +108,4 @@ Wipro BPS                   Performance Improvement Coach  2011 – 2016
 ## 🌱 Currently Learning
 
 - Advanced SQL (window functions, CTEs, query optimisation)
-- Business Analysis documentation (BRD, FRD, user stories)
-- Azure Data Fundamentals
-- Machine Learning for HR analytics
-
----
-
-<p align="center"><i>"Turning workforce data into decisions that matter."</i></p>
+- Business Analysis documentation (BRD,
