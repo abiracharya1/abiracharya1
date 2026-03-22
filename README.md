@@ -1,16 +1,30 @@
-## Hi there 👋
+Abir Acharya
+Business Analyst | HR Analytics | People Analytics
 
-<!--
-**abiracharya1/abiracharya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Business analytics professional with 15+ years experience including 5+ years in HR and workforce analytics. Skilled in SQL, Power BI, Excel and Python. Currently transitioning into Business Analyst roles.
 
-Here are some ideas to get you started:
+Skills
+SQL
+Power BI
+Advanced Excel
+Python
+Data Analysis
+Requirements Analysis
+Dashboard Development
+HR Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+HR Analytics Dashboard → https://github.com/abiracharya1/HR-Analytics-Dashboard
+SQL Employee Analysis → https://github.com/abiracharya1/SQL-Employee-Data-Analysis
+Excel HR Dashboard → https://github.com/abiracharya1/Excel-HR-Analytics-Dashboard
+Python Data Analysis → https://github.com/abiracharya1/Python-Data-Analysis
+Tableau Dashboard → https://github.com/abiracharya1/Tableau-Dashboard-Projects
+
+Currently Learning
+Advanced SQL
+Business Analysis documentation
+Data modeling
+
+Contact
+LinkedIn: (https://www.linkedin.com/in/abir-acharya/)
