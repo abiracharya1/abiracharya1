@@ -16,10 +16,15 @@ HR Analytics
 
 Projects
 HR Analytics Dashboard → https://github.com/abiracharya1/HR-Analytics-Dashboard
+
 SQL Employee Analysis → https://github.com/abiracharya1/SQL-Employee-Data-Analysis
+
 Excel HR Dashboard → https://github.com/abiracharya1/Excel-HR-Analytics-Dashboard
+
 Python Data Analysis → https://github.com/abiracharya1/Python-Data-Analysis
+
 Tableau Dashboard → https://github.com/abiracharya1/Tableau-Dashboard-Projects
+
 
 Currently Learning
 Advanced SQL
